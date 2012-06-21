@@ -1,0 +1,4 @@
+*.pyc
+tests/
+updates/*.zip
+updates/*.xml
