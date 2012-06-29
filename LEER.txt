@@ -1,1 +1,3 @@
-Prueba!!
+Esta aplicación esta basada en el entorno GTK+ para declaración de impuestos en medio electrónico, 
+válido para Ecuador y cuenta con el auspicio oficial del Servicio de Rentas Internas << SRI >> la 
+cual esta apoyando a fortalecer el desarrollo de software libre en nuestro pais.
